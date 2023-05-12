@@ -24,3 +24,5 @@ An example of the implement in ROS is also the script folder.
 <img width="689" alt="截屏2023-05-11 21 51 12" src="https://github.com/shimu0215/Kalman-Filter-in-ROS/assets/67790259/1df44905-ffdf-4fe0-bf21-5c97ba281a45">
 
 The structure of the nodes is on above.
+
+For details about building a server or other parts in a ROS project, see the ROS tutorial: http://wiki.ros.org/ROS/Tutorials
